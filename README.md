@@ -22,9 +22,9 @@
 > Attending 80% of discussion sessions will earn you an additional 5pts on your final exam.
 
 | Day | Staff Member |  Time |
-| --- | --- | --- |
-|Tuesday |   TBD |    |
-|Wednesday |   TBD |    |
+| --- | --- | --- | TBD
+|Tuesday |   TBD |   TBD |
+|Wednesday |   TBD | TBD   |
 
 
 **Lab**

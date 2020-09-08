@@ -135,7 +135,7 @@ Office hours will be synchronous, just like the labs. Each TA will update [this]
 
 ### Discussion Sessions
 
-Discussion sessions will will be synchronous, just like the labs and office hours. The discussion session lead will update [this](https://piazza.com/class/k5wnqtbv8jy5kx?cid=124) resource on Piazza with a link that will be active with a Google Meets chatroom during their regularly scheduled discussion session times.
+Discussion sessions will will be synchronous, just like the labs and office hours. The discussion session lead will update [this](https://piazza.com/class/keu9ra3lv5h4hg?cid=10) resource on Piazza with a link that will be active with a Google Meets chatroom during their regularly scheduled discussion session times.
 
 ### Important Notes
 

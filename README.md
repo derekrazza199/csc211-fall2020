@@ -3,7 +3,7 @@
 ### Course Instructors
 **Instructor:** Michael Conti (michaelconti@uri.edu), Tyler 137
 
-**Teaching Assistants:** 
+**Teaching Assistants:**  <br>
 Graduate TA - Derek Jacobs <br>
 Undergraduate TAs - David Perrone, Isak Sigbjornsson, Nick Goltsos
 

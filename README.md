@@ -10,9 +10,9 @@
 
 | Day | Staff Member |  Time |
 | --- | --- | --- |
-|Monday |   Nick <br> David |  12p - 2p, 3:45p - 4:45p <br> 4p - 5p|
+|Monday |  Michael <br> Nick <br> David | 11a - 12p <br>  12p - 2p, 3:45p - 4:45p <br> 4p - 5p|
 |Tuesday |  Derek <br> Nick |   9a - 11:30a <br>  5p - 6:30P|
-|Wednesday   |  David  |  2p - 4p |
+|Wednesday   | Michael <br> David  | 12p - 1p <br> 2p - 4p |
 |Thursday   |  Derek | 9a - 11:30a|
 |Friday    |   Derek <br> Nick |  9a - 12p, 2p - 4p  |
 

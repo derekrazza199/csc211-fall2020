@@ -16,7 +16,7 @@ Undergraduate TAs - David Perrone, Isak Sigbjornsson, Nick Goltsos
 |Tuesday |  Derek <br> Nick |   9a - 11:30a <br>  5p - 6:30P|
 |Wednesday   | Michael <br> David  | 12p - 1p <br> 2p - 4p |
 |Thursday   |  Derek | 9a - 11:30a|
-|Friday    |   Derek <br> Nick |  9a - 12p, 2p - 4p  |
+|Friday    |   Derek <br> Nick |  9a - 12p <br> 2p - 4p  |
 
 **Discussion Session**
 <br> Location: Virtual

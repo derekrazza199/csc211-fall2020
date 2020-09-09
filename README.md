@@ -10,11 +10,11 @@
 
 | Day | Staff Member |  Time |
 | --- | --- | --- |
-|Monday |   TBD |   TBD |
-|Tuesday |  TBD |   TBD|
-|Wednesday   |  TBD  |  TBD|
-|Thursday   |  TBD | TBD|
-|Friday    |   TBD|  TBD  |
+|Monday |   Nick <br> David |  12p - 2p, 3:45p - 4:45p <br> 4p - 5p|
+|Tuesday |  Derek <br> Nick |   9a - 11:30a <br>  5p - 6:30P|
+|Wednesday   |  David  |  2p - 4p |
+|Thursday   |  Derek | 9a - 11:30a|
+|Friday    |   Derek <br> Nick |  9a - 12p, 2p - 4p  |
 
 **Discussion Session**
 <br> Location: Virtual

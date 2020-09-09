@@ -32,9 +32,9 @@
 
 | Day | Staff Member |  Time |
 | --- | --- | --- |
-|Monday |   TBD |   2:00p – 3:45p  |
-|Friday |   TBD |   12:00p – 1:45p|
-|Friday |   TBD |   2:00p – 3:45p|
+|Monday |   Michael, Derek, Nick |   2:00p – 3:45p  |
+|Friday |   Michael, Derek, Nick |   12:00p – 1:45p|
+|Friday |   Michael, TBD, TBD |   2:00p – 3:45p|
 
 ### Course Overview
 

@@ -3,7 +3,9 @@
 ### Course Instructors
 **Instructor:** Michael Conti (michaelconti@uri.edu), Tyler 137
 
-**Teaching Assistants:** TBD <br>
+**Teaching Assistants:** 
+Graduate TA - Derek Jacobs <br>
+Undergraduate TAs - David Perrone, Isak Sigbjornsson, Nick Goltsos
 
 **Office Hours Schedule**
 <br>Location: Virtual
@@ -34,7 +36,7 @@
 | --- | --- | --- |
 |Monday |   Michael, Derek, Nick |   2:00p – 3:45p  |
 |Friday |   Michael, Derek, Nick |   12:00p – 1:45p|
-|Friday |   Michael, TBD, TBD |   2:00p – 3:45p|
+|Friday |   Michael |   2:00p – 3:45p|
 
 ### Course Overview
 

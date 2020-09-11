@@ -129,7 +129,7 @@ Lectures will be asynchronous. Every week at the time and day we would normally 
 
 ### Labs
 
-Labs can be done independently or with a group using whatever communication tool you prefer (FaceTime, Zoom, Google Meets, Discord, Slack). If done in a group, please submit on Gradescope just as a group as we have been doing all semester. TAs will be available in real-time through their [respective chatrooms](https://piazza.com/class/keu9ra3lv5h4hg?cid=8) that will be updated each week on this piazza post. Each TA will have their own Google Meets chatroom for your lab questions during the scheduled lab times (that is, these chatroom will not be active outside of the scheduled lab sessions).
+Labs will by synchronous - so attendance is required. You can access the lab chatrooms [here](https://piazza.com/class/keu9ra3lv5h4hg?cid=8).
 
 ### Office Hours
 

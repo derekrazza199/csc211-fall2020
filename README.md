@@ -25,7 +25,7 @@ Undergraduate TAs - David Perrone, Isak Sigbjornsson, Nick Goltsos
 
 | Day | Staff Member |  Time |
 | --- | --- | --- | 
-|Tuesday |   TBD |   TBD |
+|Monday |   Derek |   5p - 6p |
 |Wednesday |   TBD | TBD   |
 
 

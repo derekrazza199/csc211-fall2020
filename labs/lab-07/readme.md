@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Lab 08: Pointers
 
 Welcome to CSC 211 Lab 08. Your goal for this lab will be to gain a better understanding of pointers. **Be sure to read and follow all instructions unless otherwise specified.**  Create a `lab-08.txt` document to record all of your lab answers in and implement all of your `.cpp` programs in your IDE. Some of the language in this lab has been adopted from `cplusplus.com/doc/tutorial/dynamic/`.
@@ -530,5 +530,4 @@ One final function I want to cover, is the **replace(i, n, str)** function, whic
 
 # Part 4. Submission [5 minutes]
 
-Each group will submit a single **.zip file** named `lab-06.zip` containing all your answers to the lab questions in your `lab-06.txt` and all of your `.cpp` source code files on [Gradescope](http://gradescope.com) **before the end of your lab section**. **All submissions should be made by a group/team.** *Individual submissions will not be accepted.* Instructions to download your `lab-06.txt` file can be found in the IDE introduction page that you read in lab-01. For your convenience, that page is relinked [here](https://cs50.readthedocs.io/ide/online/).
->>>>>>> 8b7d080997807ffbd121defcff8ef2829423ab96
+Each group will submit a single **.zip file** named `lab-07.zip` containing all your answers to the lab questions in your `lab-07.txt` and all of your `.cpp` source code files on [Gradescope](http://gradescope.com) **before the end of your lab section**. **All submissions should be made by a group/team.** *Individual submissions will not be accepted.* Instructions to download your `lab-07.txt` file can be found in the IDE introduction page that you read in lab-01. For your convenience, that page is relinked [here](https://cs50.readthedocs.io/ide/online/).

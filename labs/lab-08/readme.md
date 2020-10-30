@@ -1,6 +1,6 @@
-# Lab 09: Recursion
+# Lab 08: Recursion
 
-Welcome to CSC 211 Lab 09. Your goal for this lab will be to gain a better understanding of recursion and its uses. **Be sure to read and follow all instructions unless otherwise specified.**  Create a `lab-09.txt` document to record all of your lab answers in and implement all of your `.cpp` programs in your IDE.
+Welcome to CSC 211 Lab 08. Your goal for this lab will be to gain a better understanding of recursion and its uses. **Be sure to read and follow all instructions unless otherwise specified.**  Create a `lab-09.txt` document to record all of your lab answers in and implement all of your `.cpp` programs in your IDE.
 
 1. Simple Recursion<br> 
 2. Recursion Programming Problems

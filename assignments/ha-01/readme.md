@@ -29,7 +29,7 @@ For details on expected submission instructions, please refer to the **Submissio
 
 8.  *Last digit is 9*. Prompt the user for an integer number. If the last digit of the entered number is 9, print `<number> is good`, otherwise, print `<number> is no good`. Some examples of "good" numbers would be: 9, 19, 1279, 999, 699, 1029 etc.
 
-9. *Privileges*. This program should prompt the user for an integer representing age, then output one of the following: `Too young` for an age under 16; `Can drive` for those in the interval [16, 18); `Can join the military` [18, 21) and finally `Can have a beer` for ages greater than or equal to 21.
+9. *Privileges*. This program should prompt the user for an integer representing age, then output one of the following: `Too young` for an age under 16; `Can drive` for those in the interval [16, 18); `Can join the military` [18, 21) and finally `Can rent a car` for ages greater than or equal to 21.
 
 10. *Word for number*. Prompt the user for a digit [0, 9] and print out the name of that digit as a string. Entering `9` should output `Nine`, entering `7` should output `Seven` etc. An number outside of the specified range should print `Not a valid number`. Use a `switch` statement for this problem.
 

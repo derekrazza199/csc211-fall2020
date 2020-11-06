@@ -130,7 +130,7 @@ taC
 
 We can use some recursive processes to represent this problem and build our strings.
 
-:white_check_mark: Program 1: Write a recursive function with the header `void permute_str(std::string current, std::string choices);` that will recursively build all permutations of a string it receives in main as its `choices` argument.
+:white_check_mark: Program 1: Write a recursive function that will recursively build all permutations of a string it receives in main as its argument.
 
 ## Recursive Backtracking
 

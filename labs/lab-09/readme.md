@@ -1,6 +1,6 @@
 # Lab 10: Advanced Recursion
 
-Welcome to CSC 211 Lab 10. Your goal for this lab will be to gain a better understanding of advanced recursion methods and its uses. **Be sure to read and follow all instructions unless otherwise specified.**  Create a `lab-10.txt` document to record all of your lab answers in and implement all of your `.cpp` programs in your IDE.
+Welcome to CSC 211 Lab 09. Your goal for this lab will be to gain a better understanding of advanced recursion methods and its uses. **Be sure to read and follow all instructions unless otherwise specified.**  Create a `lab-09.txt` document to record all of your lab answers in and implement all of your `.cpp` programs in your IDE.
 
 1. Recursive Stack Behavior<br>
 2. Recursion Trees<br>

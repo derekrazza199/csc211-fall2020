@@ -136,6 +136,17 @@ We can use some recursive processes to represent this problem and build our stri
 
 We can use a recursive function to build a solution incrementally. This is known as Backtracking, and is a common way to utilize recursion. The idea is to attempt a large number of solutions, and throw out those that don't yield a correct solution. 
 
+
+:white_check_mark: Program 2: Implement N-Queens
+
+The N Queen is the problem of placing N chess queens on an N×N chessboard so that no two queens attack each other. For example, following is a solution for 4 Queen problem.
+
+<img src="images/queen.jpg"/>
+
+:white_check_mark: Program 3: Implement all possible N length binary strings.
+
+:white_check_mark: Program 4: Find Greatest Common Divisor (GCD) of 2 numbers using recursion.
+
 A simple program we'll illustrate and you can attempt is the Coin Change problem. The function will accept an amount of change, and an array of allowed coin values, and yield the # of ways there are to make the correct change.
 
 Since we stated we attempt solutions and throw those that don't satisfy the problem constraints, we can phrase the question as "What combination of coins evenly combine to make our total?" But since we are incrementally building the solution, we can rephrase this to "Given I still have *n* change to calculate, what combination of coins sum to make *n*?"
@@ -179,20 +190,10 @@ The 4 solutions pointed out above are shown expanded here.
 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1   //10 pennies
 ```
 
-:white_check_mark: Program 2: Implement the described function using the following hints:
+:white_check_mark: Program 5: Implement the described function using the following hints:
 - Remember to start with your base cases.
 - The example above gives a hint on the order to check the values in.
 - Get a working solution that overcounts, then trim it down so it accurately counts.
 - Draw this out! This will be infinitely easier if you draw the trace of what you expect to be happening, and compare it to a drawing of the trace that is actually happening.
 - Notice that the calculation for the # of ways to make 5 cents will yield 2, so you cannot return immediately from your conditionals. Have 1 return statement at the end of the function to cover all of the conditionals other than the base cases.
-
-:white_check_mark: Program 3: Implement N-Queens
-
-The N Queen is the problem of placing N chess queens on an N×N chessboard so that no two queens attack each other. For example, following is a solution for 4 Queen problem.
-
-<img src="images/queen.jpg"/>
-
-:white_check_mark: Program 4: Implement all possible N length binary strings.
-
-:white_check_mark: Program 5: Find Greatest Common Divisor (GCD) of 2 numbers using recursion.
 

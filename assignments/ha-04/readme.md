@@ -136,6 +136,8 @@ Sliding puzzles are a type of puzzle where the player must arrange tiles or piec
 3. The only moves you are allowed to make are swapping the empty space with an adjacent tile to it.
 4. If asked to make an impossible swap (ie. move the blank tile out of the grid bounds), __don't__ terminate the program, simply ignore that command.
 
+You can find an example board sequence [here](https://uri.techsmithrelay.com/tagW).
+
 ##### The Assignment
 For this assignment, we are asking you to take an 8-puzzle and follow a sequence of movement commands UP, DOWN, LEFT, and RIGHT. At the _end_ of the sequence, you should check whether the puzzle has been solved.
 

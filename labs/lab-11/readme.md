@@ -1,6 +1,6 @@
 # Lab 12: Creating a 'string' class
 
-Welcome to CSC 211 Lab 12. The major focus of today's lab will be to learn how to write and use classes in C++, while gaining experience with pointers and dynamic memory.
+Welcome to CSC 211 Lab 11. The major focus of today's lab will be to learn how to write and use classes in C++, while gaining experience with pointers and dynamic memory.
 To accomplish this, you will be creating a `MyString` class that behaves like, and has some of the functions associated with `std::string`. 
 
 1. Class Review [30 mins]<br>

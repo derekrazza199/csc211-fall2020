@@ -59,7 +59,7 @@ int arr[len];
 
 If you remember strings from last lab, C-style strings are actually just stored as arrays of character values terminated by a zero. The NULL terminator is an extremely useful part of a C-style string, however we cannot use a similar construct for arrays that hold number values.
 
-:white_check_mark: Question 3. Why can we not NULL terminate an integer array?
+:white_check_mark: Question 5. Why can we not NULL terminate an integer array?
 
 There are two main ways to initialize an array in C++, with either an **initializer list** or with the use of a loop of some kind. The following code will show you syntax for both methods to initialize an array of 5 integer with the values from 1 - 5:
 
@@ -99,19 +99,19 @@ void printArr(int arr[]){
 
 ```
 
-:white_check_mark: Question 4. Write a function *findMin* that accepts an array of ints and returns the smallest value in that array.
+:white_check_mark: Question 6. Write a function *findMin* that accepts an array of ints and returns the smallest value in that array.
 
-:white_check_mark: Question 5. Write a function *findMaxIndex* that accepts an array of ints and returns the index of the largest value in that array.
+:white_check_mark: Question 7. Write a function *findMaxIndex* that accepts an array of ints and returns the index of the largest value in that array.
 
-:white_check_mark: Question 6. Write a function *calculateMedian* that accepts an array of ints and returns the median.
+:white_check_mark: Question 8. Write a function *calculateMedian* that accepts an array of ints and returns the median.
 
-:white_check_mark: Question 7. Write a function *replace* that accepts and array and two ints: *x*, and *n*. This function should replace all instances of *x* with *n*.
+:white_check_mark: Question 9. Write a function *replace* that accepts and array and two ints: *x*, and *n*. This function should replace all instances of *x* with *n*.
 
-:white_check_mark: Question 7. Write a function *doubleEvens* that accepts an array and doubles all of the even values in that array.
+:white_check_mark: Question 10. Write a function *doubleEvens* that accepts an array and doubles all of the even values in that array.
 
-:white_check_mark: Question 9. Write a function *multiModify* that accepts an array that triples all multiples of 3, doubles all multiples of 2, and ignores everything else. Note: A value should be able to be modified by multiple statements e.g. 6 would get tripled, then doubled.
+:white_check_mark: Question 11. Write a function *multiModify* that accepts an array that triples all multiples of 3, doubles all multiples of 2, and ignores everything else. Note: A value should be able to be modified by multiple statements e.g. 6 would get tripled, then doubled.
 
-:white_check_mark: Question 10. Write a function *split* that accepts three arrays, *original*, *evens*, and *odds*. The function should accept all 3 by reference, extract the evens & odds from *original*, and store them into *evens*, and *odds* respectively.
+:white_check_mark: Question 12. Write a function *split* that accepts three arrays, *original*, *evens*, and *odds*. The function should accept all 3 by reference, extract the evens & odds from *original*, and store them into *evens*, and *odds* respectively.
 Note: You can use *sizeof(array) / sizeof(array[0])* to get the # of elements in an array. **This will only work within the scope that you declared the array in!** You'll need to figure out how to get the # of arrays within the function.
 
 

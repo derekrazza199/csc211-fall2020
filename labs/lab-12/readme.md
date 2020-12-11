@@ -22,7 +22,7 @@ Welcome to CSC 211 Lab 07. Your goal for this lab will be to gain a better under
 
 :white_check_mark: Question 3. Considering the selection sort algorithm we've just discussed, how many swaps are necessary to sort the following sequence? `[2, 13, 6, 9, 3, 10, 8, 1, 5, 11]`
 
-:white_check_mark: Question 4. Implement Bubble Sort
+:white_check_mark: Question 4. Implement Selection Sort
 
 <img src="images/fig2.png">
 
